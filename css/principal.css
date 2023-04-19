@@ -619,6 +619,7 @@ div p{
 		list-style-type: none;
 	}
 	ul.nav li{
+		position: absolute;
 		margin-left: 5%;
 		float: left;
 		border-right: 2px inset black;
@@ -627,6 +628,7 @@ div p{
 		text-decoration: none;
 	}
 	ul.nav li a{
+		position: absolute;
 		text-decoration: none;
 		color: #0597F2;
 		font-family: 'Signika', sans-serif;
